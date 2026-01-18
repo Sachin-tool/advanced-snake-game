@@ -149,8 +149,7 @@ When the game ends:
 ## 🌟 Future Enhancements
 
 Potential improvements for future versions:
-
-- Sound effects and background music
+- Sound Effect and Background Music
 - Multiple difficulty levels
 - Mobile touch controls
 - Leaderboard system
@@ -164,7 +163,7 @@ This project is open source and free to use and modify.
 
 ## 👨‍💻 Author
 
-Created as a fun project to practice JavaScript and game development concepts.
+Created as a fun project to practice JavaScript and concepts.
 
 ---
 
